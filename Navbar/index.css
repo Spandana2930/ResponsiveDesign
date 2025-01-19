@@ -9,3 +9,59 @@
     margin-left: auto;
 }
 
+#navItem1{
+    color:#323f4b;
+    font-family: "roboto";
+}
+#navItem2{
+    color:#323f4b;
+    font-family: "roboto";
+}
+#navItem3{
+    color:#323f4b;
+    font-family: "roboto";
+}
+#navItem4{
+    color:#323f4b;
+    font-family: "Roboto";
+}
+.food-munch-logo{
+    width: 80px;
+    height: 70px;
+}
+.banner-section-bg-container{
+    height:80vh;
+    background-image:("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/food-munch-img.png");
+    background-size: cover;
+}
+.banner-heading{
+    color:black;
+    font-family:"roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+.banner-caption {
+    color: black;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+  }
+  .custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+  .custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+  }
